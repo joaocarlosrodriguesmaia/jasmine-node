@@ -1,1 +1,1 @@
-# jasmine-node
+# jasmine-node [![Build Status](https://travis-ci.org/joaocarlosrodriguesmaia/jasmine-node.svg?branch=main)](https://travis-ci.org/joaocarlosrodriguesmaia/jasmine-node)
